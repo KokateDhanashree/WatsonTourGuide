@@ -13,7 +13,7 @@
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "its TourGuideApp!"; ?></h1>
-				<p class='description'></p>creating By Dhanahree<span class="pink">PHP Starter Application</span>.
+				<p class='description'></p>creating By Dhanahree<span class="black">PHP Starter Application</span>.
 			</td>
 		</tr>
 	</table>
