@@ -9,7 +9,7 @@
 	<table>
 		<tr>
 			<td style='width: 30%;'>
-				<img class = 'newappIcon' src='images/newapp-ontour_logocrop.png'>
+				<img class = 'newappIcon' src='images/maxresdefault.jpg'>
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "its TourGuideApp!"; ?></h1>
